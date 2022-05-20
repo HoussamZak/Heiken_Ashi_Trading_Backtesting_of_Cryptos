@@ -1,1 +1,1 @@
-# TDI_PAC_Heiken_Ashi_for_Cryptocurrencies
+# Dual_Momentum_Trading_Backtesting_of_Cryptos.
