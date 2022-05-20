@@ -1,1 +1,1 @@
-# Dual_Momentum_Trading_Backtesting_of_Cryptos.
+#Heiken_Ashi_Trading_Backtesting_of_Cryptos.
